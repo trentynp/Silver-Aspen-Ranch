@@ -1,5 +1,5 @@
 body {
-    background-image:url(../pictures/Loafing+shed+barns.jpg);
+    background-image:url(../pictures/Mt+view+1.jpg);
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -119,95 +119,67 @@ body {
     display: block;
   }
 
-  /*background for trainer pic*/
-  .intro{
-    color: #80290e;
-    height: 350px;
-    width: 500px;
-    background-color:#d5d7d9;
-    border: solid 5px;
-    border-color:navy;
-    position: absolute;
-    top: 230px;
-    left: 60px;
-  }
-  
-  /*Paragrpah for trainer*/
-  .introText-1 {
+  /*body start*/
+
+  .text {
     text-align: center;
     position: absolute;
-    left: 500px;
-    font-size: 35px;
-    top: 305px;
+    font-size: 40px;
+    top: 190px;
     border: 5px;
-    margin-right: 40px;
-    margin-left: 180px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 165px;
+    margin-left: 165px;
     border: solid 5px;
     border-color:navy;
     background-color: #d5d7d9;
     color: #80290e;
   }
 
-  .intro-2{
-    color: #80290e;
-    height: 350px;
-    width: 650px;
-    background-color: #d5d7d9;
+  .pics{
+    margin-top: 350px;
+    margin-right: 150px;
+    margin-left: 150px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-between; 
+  } 
+
+  .A {
     border: solid 5px;
     border-color:navy;
-    position: absolute;
-    bottom: -325px;
-    right: 60px;
+    margin: 15px;
   }
 
-  
-
-  .introText-2 {
-    text-align: center;
-    position: absolute;
-    right: 500px;
-    font-size: 35px;
-    bottom: -250px;
-    border: 15px;
-    margin-left: 40px;
-    margin-right: 330px;
+  .B {
     border: solid 5px;
     border-color:navy;
-    background-color: #d5d7d9;
-    color: #80290e;
+    margin: 15px;
   }
 
-  /*Us pic*/
-  
-
-  .intro-3{
-    color: #80290e;
-    height: 350px;
-    width: 500px;
-    background-color: #d5d7d9;
+  .C {
     border: solid 5px;
     border-color:navy;
-    position: absolute;
-    bottom: -950px;
-    left: 60px;
-    
+    margin: 15px;
   }
 
-  
-
-  .introText-3 {
-    text-align: center;
-    position: absolute;
-    left: 500px;
-    font-size: 35px;
-    bottom: -850px;
-    border: 15px;
-    margin-right: 40px;
-    margin-left: 180px;
+  .D {
     border: solid 5px;
     border-color:navy;
-    background-color: #d5d7d9;
-    color: #80290e;
+    margin: 15px;
   }
 
-  
+  .E {
+    border: solid 5px;
+    border-color:navy;
+    margin: 15px;
+  }
+
+  .F {
+    border: solid 5px;
+    border-color:navy;
+    margin: 15px;
+  }

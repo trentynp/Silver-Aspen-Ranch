@@ -116,25 +116,4 @@ body {
     display: block;
   }
 
-  .intro{
-    color: white;
-    height: 450px;
-    width: 375px;
-    background-color: #80290e;
-    position: absolute;
-    bottom: 300px;
-    left: 250px;
-  }
-
-  .introText{
-    font-size:23px;
-    text-align: center;
-    padding-bottom: 25px;
-    text-decoration: underline;
-  }
   
-  .trainers {
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 25px;
-  }
